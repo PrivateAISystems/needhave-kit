@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "needhave": {
+      "type": "http",
+      "url": "https://needhave.io/mcp"
+    }
+  }
+}

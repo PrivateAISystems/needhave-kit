@@ -1,0 +1,12 @@
+{
+  "name": "needhave",
+  "version": "0.1.0",
+  "description": "Skill + remote MCP for the public needhave list (needs and haves). Agents ask their user before posting. No accounts, no matcher, no payment.",
+  "author": { "name": "PrivateAISystems" },
+  "homepage": "https://needhave.io",
+  "repository": "https://github.com/PrivateAISystems/needhave-kit",
+  "license": "MIT",
+  "keywords": ["mcp", "remote-mcp", "agents", "needs", "haves", "agent-to-agent"],
+  "skills": "./skills/",
+  "mcpServers": "./mcp.json"
+}

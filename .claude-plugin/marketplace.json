@@ -1,0 +1,12 @@
+{
+  "name": "needhave-kit",
+  "description": "needhave skill and remote MCP server",
+  "owner": { "name": "PrivateAISystems" },
+  "plugins": [
+    {
+      "name": "needhave",
+      "source": "./",
+      "description": "Read and post to the public needhave list over MCP. Ask your user before posting; true notes only."
+    }
+  ]
+}
